@@ -6,19 +6,19 @@
   - variable:🖐️ used
   - constant:🖐️ used
   - scalar
-  - literal
+  - literal🖐️ used
   - expression:👂 heard
   - heap
   - function:🙋 explained
-  - procedure
+  - procedure:🎓 known
   - method:🖐️ used
   - class:🎓 known
   - prototype:👂 heard
-  - event
+  - event:👂 heard
   - type:🖐️ used
   - primitive types:🖐️ used
-  - reference types
-  - flag
+  - reference types:🎓 known
+  - flag:🖐️ used
   - lexical scope
   - code block:🖐️ used
   - conditions:🙋 explained
@@ -30,23 +30,23 @@
   - module:🎓 known
   - call stack
 - Functions
-  - signature
+  - signature🖐️ used
   - argument:🖐️ used
   - parameter:🖐️ used
   - pure function🎓 known
   - lambda expression
-  - side effects
-  - closure:👂 heard
+  - side effects:
+  - closure:🎓 known
   - partial application
-  - curry
+  - curry:👂 heard
   - higher order
   - recursion:🖐️ used
   - callback:🎓 known
-  - listener
-  - compose
+  - listener:👂 heard
+  - compose:🖐️ used
   - pipe
   - memoize
-  - wrapper
+  - wrapper:🎓 known
   - functor
   - monad
   - monoid
@@ -56,7 +56,7 @@
   - array:🖐️ used
   - structure:🖐️ used
   - record
-  - enum
+  - enum:👂 heard
   - instance
   - object:🖐️ used
   - class:🎓 known
@@ -64,14 +64,14 @@
   - set:🎓 known
   - hash table:👂 heard
   - linked list:🎓 known
-  - doubly list
+  - doubly list:👂 heard
   - unrolled list
   - circular list
   - queue:👂 heard
   - stack:👂 heard
   - deque
-  - tree
-  - graph
+  - tree:👂 heard
+  - graph:👂 heard
   - iterator:🖐️ used
   - mutable state
   - immutable state
@@ -80,7 +80,7 @@
 - Process & style
   - compiler:🎓 known
   - transpiler:🎓 known
-  - linter
+  - linter:👂 heard
   - polyfill
   - debugger:👂 heard
   - garbage collection
@@ -98,9 +98,9 @@
   - not invented here
   - dead code:🖐️ used
   - unreachable code:🖐️ used
-  - duplicate code
-  - exception
-  - return early
+  - duplicate code:👂 heard
+  - exception:👂 heard
+  - return early:👂 heard
   - unittest
   - git:🖐️ used
   - github:🖐️ used
