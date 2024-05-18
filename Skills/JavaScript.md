@@ -1,86 +1,86 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object👂 heard
-  - this
-  - arrow function
-  - async function
+  - Object:🖐️ used
+  - this:🖐️ used
+  - arrow function:🖐️ used
+  - async function:👂 heard
   - call
   - bind
   - apply
   - instanceof
   - ...spread
   - ...rest
-  - typeof
+  - typeof:🖐️ used
   - destructuring
-  - generator
-  - iterator👂 heard
+  - generator:👂 heard
+  - iterator:🖐️ used
   - async generator
   - async iterator
-  - chaining
-  - optional chaining
+  - chaining:🎓 known
+  - optional chaining:🎓 known
   - IIFE
-  - global
+  - global:👂 heard
   - globalThis
   - window
-  - getters and setters
+  - getters and setters: 🎓 known
   - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
+  - prototype:👂 heard
+  - equality operators:🙋 used
+  - logical operators:🙋 used
+  - bitwise operators:🎓 known
+  - ternary operator:👂 heard
+  - void:🖐️ used
   - yield
-  - await
+  - await:🎓 known
   - template literal
-  - strict mode👂 heard
-  - delete
+  - strict mode:🙋 used
+  - delete:🎓 known
   - in
   - super
-  - Symbol
+  - Symbol:🎓 known
   - Reflect
 - Statements
-  - if👂 heard
-  - while👂 heard
-  - do..while👂 heard
-  - for👂 heard
-  - for..in
-  - for..of👂 heard
-  - for await
-  - throw
-  - break👂 heard
-  - continue👂 heard
-  - import👂 heard
-  - export
-  - label
-  - try..catch
-  - switch
-  - class👂 heard
-  - new Error
+  - if:🙋 explained
+  - while:🙋 explained
+  - do..while:🙋 explained
+  - for:🙋 explained
+  - for..in:🖐️ used
+  - for..of:🙋 explained
+  - for await:👂 heard
+  - throw:🖐️ used
+  - break:🖐️ used
+  - continue:🖐️ used
+  - import:🖐️ used
+  - export:👂 heard
+  - label:👂 heard
+  - try..catch:👂 heard
+  - switch:🖐️ used
+  - class:👂 heard
+  - new Error:👂 heard
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
+  - function declaration:🖐️ used
+  - function expression:👂 heard
+  - return:🖐️ used
+  - default parameters:🖐️ used
   - functional object
 - Data structures
-  - Array👂 heard
-  - mixin
+  - Array:👂 heard
+  - mixin:👂 heard
   - extend
   - typed arrays
-  - Map
-  - Set
-  - undefined👂 heard
-  - null👂 heard
+  - Map:🎓 known
+  - Set:🎓 known
+  - undefined🖐️ used
+  - null:🖐️ used
   - Proxy
   - weak collections
-  - timers
+  - timers:👂 heard
   - EventEmitter
   - RegExp
-  - Date
-  - BigInt
+  - Date:👂 heard
+  - BigInt:🎓 known
 - Infrastructure
   - V8
   - Node.js
