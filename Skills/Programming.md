@@ -1,34 +1,34 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value:🖐️ used
+  - value:🙋 explained
   - identifier:🖐️ used
-  - variable:🖐️ used
-  - constant:🖐️ used
-  - scalar
+  - variable:🙋 explained
+  - constant:🙋 explained
+  - scalar:👂 heard 
   - literal🖐️ used
   - expression:👂 heard
-  - heap
+  - heap:🖐️ used
   - function:🙋 explained
   - procedure:🎓 known
   - method:🖐️ used
   - class:🎓 known
   - prototype:👂 heard
-  - event:👂 heard
+  - event:🖐️ used
   - type:🖐️ used
   - primitive types:🖐️ used
   - reference types:🎓 known
   - flag:🖐️ used
-  - lexical scope
+  - lexical scope:🖐️ used
   - code block:🖐️ used
   - conditions:🙋 explained
   - loops:🙋 explained
-  - assignment:👂 heard
-  - regular expression
+  - assignment::🖐️ used
+  - regular expression:👂 heard
   - interface
-  - contract
+  - contract:👂 heard
   - module:🎓 known
-  - call stack
+  - call stack:👂 heard
 - Functions
   - signature🖐️ used
   - argument:🖐️ used
