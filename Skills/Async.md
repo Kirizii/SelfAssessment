@@ -1,8 +1,8 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
+  - Event loop:👂 heard
+  - try..catch:👂 heard
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -19,14 +19,14 @@
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread
+  - Thread:👂 heard
   - Process
 - Async contracts
-  - Callbacks🎓 known
+  - Callbacks:🎓 known
   - Callback-last-error-first
   - Thenable
-  - Promise👂 heard
-  - Async/await🎓 known
+  - Promise:👂 heard
+  - Async/await:🎓 known
   - Future
   - Deferred
   - Sync generator
@@ -59,7 +59,7 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers👂 heard
+  - Timers:👂 heard
   - setImmediate
   - nextTick
   - AbortController
