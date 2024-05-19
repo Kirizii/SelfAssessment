@@ -5,38 +5,38 @@
   - this:🖐️ used
   - arrow function:🖐️ used
   - async function:👂 heard
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
+  - call:🎓 known
+  - bind:🎓 known
+  - apply:🎓 known
+  - instanceof: 🎓 known
+  - ...spread:🖐️ used
+  - ...rest:🖐️ used
   - typeof:🖐️ used
-  - destructuring
-  - generator:👂 heard
+  - destructuring:🖐️ used
+  - generator:🎓 known
   - iterator:🖐️ used
-  - async generator
+  - async generator:👂 heard
   - async iterator
   - chaining:🎓 known
   - optional chaining:🎓 known
-  - IIFE
+  - IIFE:🎓 known
   - global:👂 heard
   - globalThis
-  - window
-  - getters and setters: 🎓 known
+  - window:👂 heard
+  - getters and setters:🖐️ used
   - __proto__
-  - prototype:👂 heard
-  - equality operators:🙋 used
-  - logical operators:🙋 used
+  - prototype: 🎓 known
+  - equality operators:🙋 explained
+  - logical operators:🙋 explained
   - bitwise operators:🎓 known
-  - ternary operator:👂 heard
+  - ternary operator:🖐️ used
   - void:🖐️ used
-  - yield
+  - yield:🎓 known
   - await:🎓 known
   - template literal
-  - strict mode:🙋 used
-  - delete:🎓 known
-  - in
+  - strict mode:🙋 explained
+  - delete:🖐️ used
+  - in:🖐️ used
   - super
   - Symbol:🎓 known
   - Reflect
@@ -49,41 +49,41 @@
   - for..of:🙋 explained
   - for await:👂 heard
   - throw:🖐️ used
-  - break:🖐️ used
-  - continue:🖐️ used
+  - break::🙋 explained
+  - continue::🙋 explained
   - import:🖐️ used
-  - export:👂 heard
-  - label:👂 heard
-  - try..catch:👂 heard
+  - export:🖐️ used
+  - label:🖐️ used
+  - try..catch:🖐️ used
   - switch:🖐️ used
-  - class:👂 heard
-  - new Error:👂 heard
-  - with
+  - class:🖐️ used
+  - new Error:🖐️ used
+  - with:👂 heard
 - Functions
   - function declaration:🖐️ used
-  - function expression:👂 heard
+  - function expression:🖐️ used
   - return:🖐️ used
   - default parameters:🖐️ used
-  - functional object
+  - functional object:👂 heard
 - Data structures
-  - Array:👂 heard
-  - mixin:👂 heard
-  - extend
-  - typed arrays
-  - Map:🎓 known
-  - Set:🎓 known
+  - Array:🖐️ used
+  - mixin:🖐️ used
+  - extend:🖐️ used
+  - typed arrays:🎓 known
+  - Map:🖐️ used
+  - Set:🖐️ used
   - undefined🖐️ used
   - null:🖐️ used
-  - Proxy
-  - weak collections
+  - Proxy:👂 heard
+  - weak collections:👂 heard
   - timers:👂 heard
-  - EventEmitter
+  - EventEmitter:🖐️ used
   - RegExp
-  - Date:👂 heard
+  - Date:🖐️ used
   - BigInt:🎓 known
 - Infrastructure
-  - V8
-  - Node.js
+  - V8:👂 heard
+  - Node.js:👂 heard
   - npm
-  - prettier
-  - MDN
+  - prettier:🖐️ used
+  - MDN:🖐️ used
