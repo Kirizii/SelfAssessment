@@ -5,16 +5,16 @@
   - identifier:🖐️ used
   - variable:🖐️ used
   - constant:🖐️ used
-  - scalar
+  - scalar:👂 heard
   - literal🖐️ used
   - expression:👂 heard
-  - heap
+  - heap:👂 heard
   - function:🙋 explained
   - procedure:🎓 known
   - method:🖐️ used
   - class:🎓 known
   - prototype:👂 heard
-  - event:👂 heard
+  - event:🖐️ used
   - type:🖐️ used
   - primitive types:🖐️ used
   - reference types:🎓 known
@@ -24,8 +24,8 @@
   - conditions:🙋 explained
   - loops:🙋 explained
   - assignment:👂 heard
-  - regular expression
-  - interface
+  - regular expression:🖐️ used
+  - interface:👂 heard
   - contract
   - module:🎓 known
   - call stack
@@ -33,9 +33,9 @@
   - signature🖐️ used
   - argument:🖐️ used
   - parameter:🖐️ used
-  - pure function🎓 known
-  - lambda expression
-  - side effects:
+  - pure function:🎓 known
+  - lambda expression:🖐️ used
+  - side effects:👂 heard
   - closure:🎓 known
   - partial application
   - curry:👂 heard
@@ -44,8 +44,8 @@
   - callback:🎓 known
   - listener:👂 heard
   - compose:🖐️ used
-  - pipe
-  - memoize
+  - pipe:👂 heard
+  - memoize:👂 heard
   - wrapper:🎓 known
   - functor
   - monad
@@ -55,7 +55,7 @@
 - Data structures
   - array:🖐️ used
   - structure:🖐️ used
-  - record
+  - record:👂 heard
   - enum:👂 heard
   - instance
   - object:🖐️ used
@@ -69,12 +69,12 @@
   - circular list
   - queue:👂 heard
   - stack:👂 heard
-  - deque
+  - deque:👂 heard
   - tree:👂 heard
   - graph:👂 heard
   - iterator:🖐️ used
-  - mutable state
-  - immutable state
+  - mutable state:👂 heard
+  - immutable state:👂 heard
   - serialization
   - string parsing:🖐️ used
 - Process & style
@@ -83,22 +83,22 @@
   - linter:👂 heard
   - polyfill
   - debugger:👂 heard
-  - garbage collection
+  - garbage collection:🖐️ used
   - refactoring:🎓 known
   - code review:🎓 known
   - antipatterns:👂 heard
   - paradigm:🎓 known
   - algorithm:👂 heard
-  - magic numbers
-  - hardcode
+  - magic numbers:🎓 known
+  - hardcode:🎓 known
   - complexity:👂 heard
-  - decomposition
-  - spaghetti
-  - silver bullet
-  - not invented here
-  - dead code:🖐️ used
-  - unreachable code:🖐️ used
-  - duplicate code:👂 heard
+  - decomposition:👂 heard
+  - spaghetti:🎓 known
+  - silver bullet:👂 heard
+  - not invented here:🎓 known
+  - dead code::🎓 known
+  - unreachable code::🎓 known
+  - duplicate code::🎓 known
   - exception:👂 heard
   - return early:👂 heard
   - unittest
