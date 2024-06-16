@@ -1,106 +1,106 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value:🖐️ used
+  - value:🙋 explained
   - identifier:🖐️ used
-  - variable:🖐️ used
-  - constant:🖐️ used
-  - scalar
+  - variable:🙋 explained
+  - constant:🙋 explained
+  - scalar:👂 heard 
   - literal🖐️ used
-  - expression:👂 heard
-  - heap
+  - expression:🖐️ used
+  - heap:🖐️ used
   - function:🙋 explained
   - procedure:🎓 known
   - method:🖐️ used
   - class:🎓 known
   - prototype:👂 heard
-  - event:👂 heard
+  - event:🖐️ used
   - type:🖐️ used
   - primitive types:🖐️ used
   - reference types:🎓 known
   - flag:🖐️ used
-  - lexical scope
+  - lexical scope:🖐️ used
   - code block:🖐️ used
   - conditions:🙋 explained
   - loops:🙋 explained
-  - assignment:👂 heard
-  - regular expression
-  - interface
-  - contract
+  - assignment::🖐️ used
+  - regular expression:🖐️ used
+  - interface:👂 heard
+  - contract:👂 heard
   - module:🎓 known
-  - call stack
+  - call stack:👂 heard
 - Functions
   - signature🖐️ used
-  - argument:🖐️ used
-  - parameter:🖐️ used
+  - argument:🙋 explained
+  - parameter:🙋 explained
   - pure function🎓 known
-  - lambda expression
-  - side effects:
+  - lambda expression:👂 heard
+  - side effects:👂 heard
   - closure:🎓 known
   - partial application
   - curry:👂 heard
   - higher order
   - recursion:🖐️ used
-  - callback:🎓 known
-  - listener:👂 heard
+  - callback:🖐️ used
+  - listener:🖐️ used
   - compose:🖐️ used
-  - pipe
-  - memoize
-  - wrapper:🎓 known
+  - pipe:👂 heard
+  - memoize:🖐️ used
+  - wrapper:🖐️ used
   - functor
   - monad
   - monoid
   - generator:👂 heard
-  - coroutine
+  - coroutine:👂 heard
 - Data structures
   - array:🖐️ used
   - structure:🖐️ used
-  - record
+  - record:👂 heard
   - enum:👂 heard
   - instance
   - object:🖐️ used
-  - class:🎓 known
+  - class:🖐️ used
   - collection:👂 heard
-  - set:🎓 known
+  - set:🖐️ used
   - hash table:👂 heard
-  - linked list:🎓 known
-  - doubly list:👂 heard
-  - unrolled list
-  - circular list
-  - queue:👂 heard
-  - stack:👂 heard
-  - deque
+  - linked list:🖐️ used
+  - doubly list:🖐️ used
+  - unrolled list:🎓 known
+  - circular list:🎓 known
+  - queue:🖐️ used
+  - stack:🖐️ used
+  - deque:🎓 known
   - tree:👂 heard
-  - graph:👂 heard
+  - graph:🖐️ used
   - iterator:🖐️ used
-  - mutable state
-  - immutable state
-  - serialization
+  - mutable state:🎓 known
+  - immutable state:🎓 known
+  - serialization:🖐️ used
   - string parsing:🖐️ used
 - Process & style
   - compiler:🎓 known
   - transpiler:🎓 known
   - linter:👂 heard
   - polyfill
-  - debugger:👂 heard
+  - debugger:🎓 known
   - garbage collection
-  - refactoring:🎓 known
-  - code review:🎓 known
+  - refactoring:🖐️ used
+  - code review:🖐️ used
   - antipatterns:👂 heard
   - paradigm:🎓 known
   - algorithm:👂 heard
-  - magic numbers
-  - hardcode
-  - complexity:👂 heard
-  - decomposition
-  - spaghetti
+  - magic numbers:🎓 known
+  - hardcode:🎓 known
+  - complexity:🎓 known
+  - decomposition:🎓 known
+  - spaghetti:🎓 known
   - silver bullet
-  - not invented here
+  - not invented here:🎓 known
   - dead code:🖐️ used
   - unreachable code:🖐️ used
-  - duplicate code:👂 heard
+  - duplicate code:🖐️ used
   - exception:👂 heard
-  - return early:👂 heard
-  - unittest
+  - return early:🖐️ used
+  - unittest:🖐️ used
   - git:🖐️ used
   - github:🖐️ used
